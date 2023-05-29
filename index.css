@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "Poppins";
-  src: url("../../font/Poppin.ttf");
+  src: url("./font/Poppin.ttf");
 }
 
 body {
@@ -18,7 +18,7 @@ body {
 .top_banner {
   display: flex;
   height: 650px;
-  background: url(../../img/IvyStore/5_model-01.jpg);
+  background: url(./img/IvyStore/5_model-01.jpg);
   background-position: center center;
   background-size: cover;
 }
@@ -80,7 +80,7 @@ body {
     background-position: 1150px center !important;
     background-position: 60% center !important;
     content: '';
-    background: url(../../img/IvyStore/5_model-01.jpg);
+    background: url(./img/IvyStore/5_model-01.jpg);
     position: absolute;
     left: 0;
     top: 0;
@@ -131,28 +131,28 @@ body {
 }
 
 .genre .col1 {
-  background-image: url("../../img/IvyStore/user-5.webp");
+  background-image: url("./img/IvyStore/user-5.webp");
 }
 
 .genre .col2 {
-  background-image: url("../../img/IvyStore/occasion.jpeg");
+  background-image: url("./img/IvyStore/occasion.jpeg");
 }
 
 .genre .col3 {
-  background-image: url("../../img/IvyStore/user-4.webp");
+  background-image: url("./img/IvyStore/user-4.webp");
 }
 
 .genre .col4 {
-  background-image: url("../../img/IvyStore/category-3.jpg");
+  background-image: url("./img/IvyStore/category-3.jpg");
   background-position: 0px -50px;
 }
 
 .genre .col5 {
-  background-image: url("../../img/IvyStore/accessories.webp");
+  background-image: url("./img/IvyStore/accessories.webp");
 }
 
 .genre .col6 {
-  background-image: url("../../img/IvyStore/exotic.webp");
+  background-image: url("./img/IvyStore/exotic.webp");
 }
 
 .col a {
@@ -316,7 +316,7 @@ body {
 /* SALE TIMER SECTION STYLING */
 .sale_timing_container {
   padding: 4% 5%;
-  background-image: url("../../img/IvyStore/sale\ _background.png");
+  background-image: url("./img/IvyStore/sale\ _background.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
